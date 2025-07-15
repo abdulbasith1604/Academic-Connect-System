@@ -1,6 +1,8 @@
- Academic Connect System
+Academic Connect System
 
-The Academic Connect System is a Java-based student and college information management platform.
+Developed a Java-based application to manage registration and login for students and colleges, allowing users to
+perform role-specific operations. Implemented a MySQL database with JDBC for data storage and retrieval, supporting user authentication, data
+updates, and deletions based on user roles.
 
 Features
 - Role-based registration and login for Students and Colleges
@@ -26,5 +28,4 @@ Project Structure
   - `Main.java` — program flow
 
 Author
-Abdul Basith  
-[GitHub Profile](https://github.com/abdulbasith1604)
+Abdul Basith
