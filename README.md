@@ -27,5 +27,4 @@ Project Structure
   - `DbConnection.java`
   - `Main.java` — program flow
 
-Author
-Abdul Basith
+Author : Abdul Basith
